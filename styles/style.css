@@ -1,0 +1,59 @@
+/* Universal */
+body {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+/* header banner */
+
+.header {
+
+    display: flex;
+
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.1);
+}
+
+.header .banner-img {
+    width: 500px;
+    height: 500px;
+    margin-top: 50px;
+    margin-right: 150px;
+
+}
+
+.banner-content {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.banner-content > h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.banner-container {
+    margin-top: 50px;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px;
+    color: #FFF;
+    text-align: center;
+    
+    font-size: 15px;
+    
+    font-weight: 700;
+    
+}
+
+
+
+/* feature section */
+
+.feature {
+    text-align: center;
+}
