@@ -173,3 +173,23 @@ body {
     height: 220px;
 }
 
+
+
+/* submit section */
+
+.submit-section {
+    text-align: center;
+    background-image: url('/Flower\ Asset/Rectangle 9.png');
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-top: 100px;
+    padding: 50px;
+    border-radius: 8px;
+}
+
+.input-primary {
+    width: 600px;
+    height: 55px;
+    border-radius: 8px;
+    background: #FFF;
+}
