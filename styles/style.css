@@ -21,6 +21,7 @@ body {
     margin-top: 50px;
     margin-right: 150px;
 
+
 }
 
 .banner-content {
@@ -149,4 +150,26 @@ body {
 
 }
 
+
+
+/* insta section */
+
+.insta-section {
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.insta-img-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.insta-img {
+    width: 220px;
+    height: 220px;
+}
 
