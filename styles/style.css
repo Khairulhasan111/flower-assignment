@@ -192,4 +192,16 @@ body {
     height: 55px;
     border-radius: 8px;
     background: #FFF;
+    
+}
+
+
+/* footer section */
+
+.footer {
+    text-align: center;
+    margin-top: 100px;
+    background: #111010;
+    color: white;
+    padding: 150px;
 }
